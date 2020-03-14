@@ -1,0 +1,4 @@
+In this project we state show how the LDR sensor can detect light(red,green,blue) effectively.The LDR takes in analog value 
+the one of RGB leds constanty flicker.This is used to intensify any green,red or blue light so that LDR can effectively take in
+correct values of analog correctly and effectively.The values are compared and the highest one is made with digitalWrite HIGH and 
+another led is made to glow.This led mainly serves as an output purpose.
